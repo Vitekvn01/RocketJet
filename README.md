@@ -9,4 +9,4 @@
 
 Мои модели:
 ![Image alt](https://github.com/Vitekvn01/RocketJet/blob/master/Screenshot_7.png)
-![Image alt](https://github.com/Vitekvn01/RocketJet/blob/master/Screenshot_9.png)
+![Image alt](https://github.com/Vitekvn01/RocketJet/blob/master/Screenshot_8.png)
